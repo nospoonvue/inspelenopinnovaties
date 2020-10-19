@@ -4,10 +4,10 @@
 								<section id="banner" class="banner">
 									<div class="content">
 										<header>
-											<h1>Starbase 18</h1>
-											<p>Quinta Das Novas Estrelas</p>
+											<h1>Openkeuzedelen</h1>
+											<p>Innovation and sustainability</p>
 										</header>
-										<p>The purposeful learning model turns things around. It is not the teacher who is leading the learning experience but the the context that does. The educators, together with the whole community, do facilitate the creation of the context.</p>
+										<p>hoe en wat</p>
 										<ul class="actions">
 											<li><a href="#" class="button big">Learn More</a></li>
 										</ul>
